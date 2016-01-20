@@ -1,4 +1,4 @@
-# component_pointSliding
+# component-pointSliding
 组件名称：点滑动<br>
 组件功能：完成支持不同分段点的滑动事件，包括有图或无图类型<br>
 组件参数：
